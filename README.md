@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome on board the Jumoku's Profile!
 
-**このページは作成中です。
+🚧🚧🚧このページは~~渋谷駅みたいに~~万年工事中です。🚧🚧🚧
 
 Here are some ideas to get you started:
 
