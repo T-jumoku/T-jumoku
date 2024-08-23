@@ -2,6 +2,8 @@
 
 🚧🚧🚧このページは~~渋谷駅みたいに~~万年工事中です。🚧🚧🚧
 
+## About Me
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
