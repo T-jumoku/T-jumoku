@@ -6,10 +6,6 @@ while True:
     print('Python is THE BEST!!!')
 ```
 
-🚧🚧🚧このページは~~渋谷駅みたいに~~万年工事中です。🚧🚧🚧
-
-🚧🚧🚧This page is under construction everytime ~~like Shibuya Station~~.🚧🚧🚧
-
 # Who is Jumoku?
 
 - Japan
