@@ -1,9 +1,12 @@
 # Welcome on board the Jumoku's Profile!
 
-```
-while True:
-    print('Hello, World!')
-    print('Python is THE BEST!!!')
+```C
+#include <stdio.h>
+
+int main(){
+    printf("C is God!!!!!");
+    return 0;
+}
 ```
 
 # Who is Jumoku?
