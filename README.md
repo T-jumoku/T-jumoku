@@ -1,6 +1,6 @@
 # Welcome on board the Jumoku's Profile!
 
-```
+```Python
 while True:
     print('Hello, World!')
     print('Python is THE BEST!!!')
