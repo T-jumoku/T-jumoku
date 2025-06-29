@@ -6,7 +6,7 @@ while True:
     print('Python is THE BEST!!!')
 ```
 
-# Who is Jumoku?
+# About Jumoku
 
 - Japan
 - 14 years old
