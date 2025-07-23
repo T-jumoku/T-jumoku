@@ -23,21 +23,30 @@ while True:
 - Scratch Wiki editor (ja)
 
 ## Jumoku's GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-jumoku&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=T-jumoku&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=T-jumoku&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=T-jumoku&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=T-jumoku&theme=city_lights&utcOffset=9)
 
-[![Jumoku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=T-jumoku&show_icons=true&theme=github_dark_dimmed&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-jumoku&show_icons=true&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- 後で追加 -->
+<!-- トロフィー -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=T-jumoku&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-## Languages and Tools:
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## My Skills
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
 
-## Reference by:
+## Studying Now...
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
+<!--
+Reference By:
 https://zenn.dev/yutakatay/articles/kirakira-github-profile
-
-https://rahuldkjain.github.io/gh-profile-readme-generator/
-
-https://github.com/anuraghazra/github-readme-stats/
+https://github.com/tandpfun/skill-icons
+https://github-profile-summary-cards.vercel.app/demo.html
+-->
