@@ -17,7 +17,7 @@ while True:
 ## About Jumoku
 
 - Japan
-- 14 years old
+- 15 years old
 - he / him
 - Railway, and Computer like
 - Competitive programmer
